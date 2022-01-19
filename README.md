@@ -1,4 +1,4 @@
-# PortScannerSimples
+# Port Scanner Simples
 Port Scanner simples - escrito em Python - que utiliza a biblioteca socket.
 
 ### 📋 Pré-requisitos
